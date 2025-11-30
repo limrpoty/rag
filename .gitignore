@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Banco de dados do Chroma (pode ser grande)
+chroma_db/
+
+# Logs
+*.log
+
+# Arquivos de sistema
+.DS_Store
