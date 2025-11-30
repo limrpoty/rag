@@ -1,0 +1,9 @@
+langchain
+langchain-community
+chromadb
+pypdf
+python-docx
+beautifulsoup4
+requests
+sentence-transformers
+ollama
